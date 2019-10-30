@@ -1,5 +1,5 @@
 ### Date created
-30/10/2019
+29/10/2019
 
 ### Project Title
 bike share system
@@ -26,3 +26,4 @@ The Chicago and New York City files also have the following two columns:
 
 - Gender
 - Birth Year
+
